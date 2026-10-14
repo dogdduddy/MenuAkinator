@@ -1,0 +1,48 @@
+id,text,group,scope
+q_noodle,면 요리예요?,form,broad
+q_rice,밥 요리예요? (덮밥·볶음밥·김밥·초밥 등),form,broad
+q_bread,빵이나 도우가 중심인 음식이에요?,form,broad
+q_wrap,무언가에 싸거나 말아서 먹어요?,form,fine
+q_share,보통 여럿이 나눠 먹는 음식이에요?,form,broad
+q_soup,국물이 있는 음식이에요?,soup,broad
+q_pot,뚝배기나 냄비째 나오는 음식이에요?,soup,fine
+q_clear,국물이 맑은 편이에요?,soup,fine
+q_spicy,보통 매운 음식이에요?,taste,broad
+q_sweet,단맛이 도는 음식이에요?,taste,fine
+q_greasy,기름진 음식이에요?,taste,broad
+q_soy,간장 양념 맛이 중심이에요?,taste,fine
+q_tomato,토마토 소스가 들어가요?,taste,fine
+q_cold,보통 차갑게 먹어요?,temperature,fine
+q_meat,고기가 주재료예요?,protein,broad
+q_pork,돼지고기가 주재료예요?,protein,fine
+q_beef,소고기가 주재료예요?,protein,fine
+q_chicken,닭고기가 주재료예요?,protein,fine
+q_offal,내장·순대·곱창 같은 부속 부위가 들어가요?,protein,fine
+q_seafood,해산물이 주재료예요?,protein,broad
+q_fish,생선이 주재료예요?,protein,fine
+q_raw,날것(회·육회 등)으로 먹어요?,protein,fine
+q_veg,채소가 주인공인 음식이에요?,protein,fine
+q_tofuegg,두부나 계란이 주재료예요?,protein,fine
+q_korean,한식이에요?,origin,broad
+q_chinese,중식이에요?,origin,broad
+q_japanese,일식이에요?,origin,broad
+q_western,양식(서양 음식)이에요?,origin,broad
+q_asian,동남아·인도 등 다른 아시아 음식이에요?,origin,fine
+q_fried,튀긴 음식이에요?,cooking,broad
+q_grill,굽거나 불에 직접 익혀 먹어요?,cooking,fine
+q_stirfry,볶은 음식이에요?,cooking,fine
+q_table,식탁에서 직접 익혀 먹어요?,cooking,fine
+q_hangover,해장 음식으로 흔히 먹나요?,context,fine
+q_anju,술안주로 많이 먹나요?,context,broad
+q_snack,분식이나 간식으로 먹어요?,context,broad
+q_pricey,1인분에 2만 원 넘는 편이에요?,context,fine
+q_summer,여름에 특히 많이 먹어요?,context,fine
+q_hand,손으로 들고 먹어요?,context,fine
+q_side,반찬이 여러 개 깔려 나와요?,context,fine
+q_gukbap,국밥처럼 밥을 말아 먹는 음식이에요?,soup,fine
+q_special,생일·명절 같은 날에 먹는 음식이에요?,context,fine
+q_bone,뼈째 든 고기를 발라 먹어요?,protein,fine
+q_tteok,떡이 들어가요?,form,fine
+q_ham,햄이나 소시지가 들어가요?,protein,fine
+q_health,몸보신하거나 아플 때 먹는 음식이에요?,context,fine
+q_skewer,꼬치에 꽂혀 나와요?,form,fine

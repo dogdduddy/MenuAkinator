@@ -1,0 +1,23 @@
+# 의존성·빌드 산출물
+node_modules
+dist
+src/generated/
+
+# 실사용 테스트 기록 (테스터 기기 id·플레이 기록 포함 — 공개 저장소에 올리지 않음)
+results/
+
+# 시뮬레이터·실험 리포트 (재생성 가능)
+reports/*.json
+!reports/.gitkeep
+
+# 로컬 도구 설정·비밀 정보
+.claude/
+.vscode/
+.idea/
+.env
+.env.*
+*.pem
+*.key
+
+# OS
+.DS_Store
